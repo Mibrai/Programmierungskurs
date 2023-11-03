@@ -1,0 +1,9 @@
+1) Ecrire un programme qui declare un entier positif, l'initialise puis calcule et affiche son factoriel.
+
+2) Ecrire un programme declare une chaine de caractere, l'initialise puis compte et affiche le nombre d'apparution de chaque caractere de la chaine.
+	-> Vous modifierez ce programme de sorte que ca specifie si le caractere est une voyelle ou une consonne. #Be Wise here :)
+
+3) Ecrire un programme capable de calculer le delta pour la resolution d'une equation de second degre.
+
+Deadline Donnerstag den 2. November 19.00 Uhr
+Viel Spaß 

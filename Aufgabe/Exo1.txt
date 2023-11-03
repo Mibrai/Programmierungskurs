@@ -1,0 +1,6 @@
+1) Ecrire un programme qui declare 5 variables et y stocke des valeurs aleatoirement choisi puis calcule et affiche la moyenne. En suite affiche une appreciation en fonction de la moyenne obtenu:  La moyenne est noté sur 20 et les appreciations sont : null [0..5], tres faible [6..8] , faible [9,10], passable [11..13], assez-bien [14..16], bien [17,18], tres-bien [19], Excellent [20]
+
+
+2)Ecrire un programme qui declare un String et y affecte votre nom comme valeur puis affiche le nombre de voyelles contenu dans votre nom. Doku: on rappelle que la methode charAt(index) sur un String retourne le caractere à la position <index> dans ce string 
+
+3)Ecrire un programme qui declare une variable entiere x , puis declare 5 autres variables contenant des nombres, verifie et affiche parmis les 5 nombres ceux qui sont diviseurs de x.

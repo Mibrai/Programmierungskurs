@@ -1,0 +1,5 @@
+Soit le sous systeme suivant charge de gerer les utilisateurs d'une plateforme de vente en ligne:
+
+Le systeme manage des utilisateurs. Chaque utilisateur est identifie par :  son nom, son prenom, sa taille en mètre, son poids en kg, son email, son sexe, sa date de naissance, son numero de telephone,son niveau d'acces dans le systèm qui part de 0 à 4, son adresse composé de la ville, le code postale, la rue et le numero de la rue.
+
+Creez en java (soit avec le code ou/et Editeur de texte simple) la structure de donnée la mieux adaptée pour ce cas et expliquez vos différents choix.
